@@ -1,0 +1,9 @@
+@import '_mixins';
+@import '_variables';
+
+footer {
+      background-color: $secondary-color;
+      color: $font-color;
+      padding: 10px;
+      text-align: center;
+}
